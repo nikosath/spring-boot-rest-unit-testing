@@ -22,5 +22,3 @@ Create an application with API endpoints that answers the following:
 
 How many are female? 
 Who is the oldest person?
-
-Please use Java 8 and add required unit tests.
